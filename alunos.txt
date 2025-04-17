@@ -1,0 +1,10 @@
+Trabalho: Implementação do Algoritmo ACO para o Problema do Caixeiro Viajante (TSP)
+Disciplina: Inteligência Artificial
+Semestre: 6º Semestre
+
+Alunos:
+- Alberto Zilio
+- Lucas Steffens
+- Roni Pereira
+
+
